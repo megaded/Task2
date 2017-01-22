@@ -1,0 +1,8 @@
+c:\users\евгений\documents\visual studio 2015\Projects\Compiler\Compiler\bin\Debug\Compiler.exe.config
+c:\users\евгений\documents\visual studio 2015\Projects\Compiler\Compiler\bin\Debug\Compiler.exe
+c:\users\евгений\documents\visual studio 2015\Projects\Compiler\Compiler\bin\Debug\Compiler.pdb
+c:\users\евгений\documents\visual studio 2015\Projects\Compiler\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+c:\users\евгений\documents\visual studio 2015\Projects\Compiler\Compiler\obj\Debug\Compiler.exe
+c:\users\евгений\documents\visual studio 2015\Projects\Compiler\Compiler\obj\Debug\Compiler.pdb
+C:\Users\Евгений\documents\visual studio 2015\Projects\Compiler\Compiler\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Евгений\documents\visual studio 2015\Projects\Compiler\Compiler\bin\Debug\System.Threading.Tasks.Dataflow.xml
